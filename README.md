@@ -1,1 +1,2 @@
-# learning_autotesting
+# learning_autotesting 
+first steps with git
